@@ -22,3 +22,5 @@ To get started with the Knowledge Base Industry 5.0 Backend, follow these steps:
    git clone https://github.com/your-username/knowledge-base-industry-5-backend.git
    cd knowledge-base-industry-5-backend
 
+(scritto da chatgpt è inaccurato)
+
