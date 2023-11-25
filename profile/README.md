@@ -12,6 +12,3 @@ The Knowledge Base Industry 5.0 Backend is a robust and scalable solution that p
 - **API Integration**: Seamless integration with other components of the Knowledge Base Industry 5.0 ecosystem through well-defined APIs.
 - **Data Storage and Retrieval**: Utilize a powerful database system for efficient storage and retrieval of knowledge data.
 
-
-(scritto da chatgpt è inaccurato)
-
